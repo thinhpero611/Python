@@ -3,8 +3,7 @@ Anh là Thạc Sĩ và đang giảng dạy ở Khoa Toán Kinh tế, đại họ
 Anh ấy viết rất nhiều blog rất hay về Học Máy cũng như là Học Sâu.\
 Mọi người có ghé thăm qua blog của anh ấy tại [đây](https://nttuan8.com/gioi-thieu-ve-deep-learning/#Khoa_Deep_Learning_co_ban).
 
-Và ngoài ra còn một nguồn học thuật toán Học máy rất hay đó là [3Blue1Brown sereis]
-(https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+Và ngoài ra còn một nguồn học thuật toán Học máy rất hay đó là [3Blue1Brown sereis](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 \
 Sereis này là những kiến thức toán học nền tảng cho thuật toán Học Máy, Học Sâu và \
 kể cả sau này nữa, những video được minh họa rất rõ ràng và dễ hình dung, có thể nói là\
