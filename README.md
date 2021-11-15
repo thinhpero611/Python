@@ -1,3 +1,5 @@
+# A Attribution Readme
+
 Thuật toán học máy mình tham blog của anh Tuấn\
 Anh là Thạc Sĩ và đang giảng dạy ở Khoa Toán Kinh tế, đại học Kinh tế Quốc dân (NEU).\
 Anh ấy viết rất nhiều blog rất hay về Học Máy cũng như là Học Sâu.\
