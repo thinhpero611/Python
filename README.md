@@ -1,4 +1,4 @@
-# An Attribution Readme
+# A Tribute Readme
 
 Thuật toán học máy trên là mình tham khảo blog của anh Tuấn\
 Anh là Thạc Sĩ và đang giảng dạy ở Khoa Toán Kinh tế, đại học Kinh tế Quốc dân (NEU).\
